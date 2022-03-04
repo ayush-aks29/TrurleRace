@@ -1,3 +1,5 @@
+#Install Turtle module first using command
+#pip install turtle
 from turtle import Turtle, Screen
 import random
 
